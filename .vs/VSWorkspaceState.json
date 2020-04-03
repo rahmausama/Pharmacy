@@ -3,7 +3,10 @@
     "",
     "\\App_Data",
     "\\Controllers",
-    "\\Models"
+    "\\Models",
+    "\\Views",
+    "\\Views\\products"
   ],
+  "SelectedNode": "\\Views\\products\\Delete.cshtml",
   "PreviewInSolutionExplorer": false
 }
