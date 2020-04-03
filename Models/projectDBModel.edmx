@@ -87,7 +87,7 @@
     </Options>
     <!-- Diagram content (shape and connector positions) -->
     <Diagrams>
-      <Diagram DiagramId="2385b4deaaf34ce3a4edcce27685741b" Name="Diagram1">
+      <Diagram DiagramId="3b1f353e9e2d4d5f98bae322bb42f0c6" Name="Diagram1">
         <EntityTypeShape EntityType="pharmacyModel.product" Width="1.5" PointX="0.75" PointY="0.75" IsExpanded="true" />
       </Diagram>
     </Diagrams>
